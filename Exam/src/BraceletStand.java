@@ -16,7 +16,7 @@ public class BraceletStand {
         double razhodi = allSpesteni -razhodiZaCeliaPeriod;
 
         if(razhodi>pricePresent){
-            System.out.printf("Profit: %.2f BGN, the gift has been purchased.",razhodi);
+            System.out.printf("Profit: %.2f BGN, the gift has beeеn purchased.",razhodi);
         }
         else{
             double diff = Math.abs(razhodi-pricePresent);
