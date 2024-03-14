@@ -1,2 +1,2 @@
 # JAVA_BASICS
-JAVA Basics 2022
+🎓 Exercises from the "Java-Basics" course @SoftUni-(January 2023)
